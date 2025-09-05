@@ -58,6 +58,3 @@ Introduce customer segmentation analysis.
 Build an interactive filter system for deeper drill-downs.
 
 
-GitHub: [JatindraPatel]
-
-LinkedIn: [https://www.linkedin.com/in/jatindrapatel/]
