@@ -57,20 +57,6 @@ Introduce customer segmentation analysis.
 
 Build an interactive filter system for deeper drill-downs.
 
-📌 How to Use
-
-Clone the repository:
-
-git clone https://github.com/JatindraPatel/blinkit-sales-dashboard.git
-
-
-Open the Power BI file (.pbix) in Power BI Desktop.
-
-Explore insights interactively with applied filters.
-
-📧 Contact
-
-Author: Jatindra Patel
 
 GitHub: [JatindraPatel]
 
